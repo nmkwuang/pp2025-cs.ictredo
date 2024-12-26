@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  2 nmkwang nmkwang 4096 Thg 12 26 07:55 .
+drwxr-xr-x 10 nmkwang nmkwang 4096 Thg 12 26 07:32 ..
+-rw-rw-r--  1 nmkwang nmkwang 2421 Thg 12 26 07:30 7.shell.py
+-rw-rw-r--  1 nmkwang nmkwang   27 Thg 12 26 07:45 input.txt
+-rw-rw-r--  1 nmkwang nmkwang    0 Thg 12 26 07:55 output.txt
